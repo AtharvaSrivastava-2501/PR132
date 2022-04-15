@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.h{
+    background-color: white;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-left:160px ;
+    padding-right:160px ;
+    border-radius: 25px;
+}
+#hh{
+    margin-bottom: 45px;
+}
